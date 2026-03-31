@@ -69,8 +69,8 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="font-bold text-lg text-gray-800">Teléfonos</h3>
-                  <p className="text-gray-600">Fijo: (601) 521 0258</p>
-                  <p className="text-gray-600">Móvil: 323 231 7338</p>
+                  <p className="text-gray-600">Fijo: 323-231-7338</p>
+                  <p className="text-gray-600">Móvil: 323-231-7338</p>
                   <p className="text-gray-600">Comercial: 310 316 2201</p>
                 </div>
               </div>

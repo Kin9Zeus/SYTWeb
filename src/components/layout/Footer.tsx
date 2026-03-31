@@ -102,7 +102,7 @@ export function Footer() {
                 <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-white/[0.07] ring-1 ring-white/10 group-hover:bg-[var(--color-primary-1)]/20 transition-colors duration-300">
                   <Phone className="text-[var(--color-accent)]" size={18} />
                 </span>
-                <span className="text-emerald-50/85">601 5210258 | 323 231 7338</span>
+                <span className="text-emerald-50/85">323-231-7338</span>
               </li>
               <li className="flex gap-3 items-center group">
                 <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-white/[0.07] ring-1 ring-white/10 group-hover:bg-[var(--color-primary-1)]/20 transition-colors duration-300">

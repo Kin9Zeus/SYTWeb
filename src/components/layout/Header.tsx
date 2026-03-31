@@ -160,14 +160,14 @@ export function Header() {
 
         <div className="hidden lg:flex items-center gap-4">
             <Link 
-              href="tel:6015210258" 
+              href="tel:3232317338" 
               className={cn(
                 "flex items-center gap-2 text-sm font-semibold transition-colors duration-300",
                 "text-slate-600 hover:text-[var(--color-primary-1)]"
               )}
             >
                 <Phone size={16} />
-                <span>(601) 521 0258</span>
+                <span>323-231-7338</span>
             </Link>
             <Button variant="accent" size="sm" asChild className="font-bold shadow-lg shadow-amber-200/40 hover:shadow-amber-300/60 hover:scale-[1.03] transition-all duration-300">
                 <Link href="/contacto">Solicitar Cotización</Link>
@@ -235,9 +235,9 @@ export function Header() {
                   ))}
                </div>
                <div className="border-t border-slate-100 pt-6 mt-2 flex flex-col gap-4">
-                 <Link href="tel:6015210258" className="flex items-center justify-center gap-2 text-base font-bold text-slate-600 py-2">
+                 <Link href="tel:3232317338" className="flex items-center justify-center gap-2 text-base font-bold text-slate-600 py-2">
                     <Phone size={18} />
-                    <span>(601) 521 0258</span>
+                    <span>323-231-7338</span>
                  </Link>
                  <Button variant="accent" size="lg" className="w-full font-bold shadow-xl" asChild>
                     <Link href="/contacto" onClick={() => setIsOpen(false)}>Solicitar Cotización</Link>

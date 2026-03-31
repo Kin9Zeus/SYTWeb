@@ -5,8 +5,8 @@ export const SITE_CONFIG = {
   url: "https://www.saludytrabajosst.com",
   logo: "/images/branding/Logo_SYT.png",
   contact: {
-    phone: "601 5210258",
-    mobile: "323 231 7338",
+    phone: "323-231-7338",
+    mobile: "323-231-7338",
     commercial: "310 3162201",
     email: "grospina@saludytrabajosst.com",
     address: "Carrera 49 No. 93-41, Piso 1, La Castellana, Bogotá D.C."
